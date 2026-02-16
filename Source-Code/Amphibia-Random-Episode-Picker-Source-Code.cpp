@@ -35,6 +35,7 @@ if (menu =='3')
     cout<<"                 Credits"<<endl;
     cout<<"The Amphibia Random Episode picker was made by Asep1582 (asep3192)"<<endl;
     cout<<"Code peer reviewed by MrSciptDev "<<endl;
+    //cout<<"Copyright (C) 2025 Asep1582. All Rights Reserved"<<endl;
     cout<<" Disclaimers:"<<endl<<endl;
     cout<<"The Amphibia Random episode picker is a fan-made project that has no affiliation with Disney, DisneyTVA, or Mat Braly"<<endl<<endl;
     cout<<"Press any key to return to the main menu"<<endl;
